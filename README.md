@@ -3,4 +3,4 @@ My first repository
 
 Howdy! 
 
-Learning alot about GitHub!
+Learning a lot about GitHub!
